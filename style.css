@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+#team_img {
+  transform: rotateX(180deg);
+  transform: rotateZ(180deg);
+  filter: brightness(127.5%);
+  filter: brightness(130%);
+}
+#page-title {
+  font-size: 32px;
+}
+label,
+p,
+.donate-li,
+.role-li {
+  color: crimson;
+  background-color: #93ccea;
+}
+.my_nav_bar {
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+}
+.person_img_div {
+  text-align: left;
+  margin-left: 5%;
+}
+img {
+  margin-bottom: 10px;
+}
+.caption {
+  font-style: italic;
+  font-size: 10px;
+}
+.person_pic {
+  filter: brightness(150%);
+}
